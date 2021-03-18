@@ -2081,7 +2081,7 @@ p {
 .contact-area {
   padding-top: 95px;
   padding-bottom: 100px;
-  background-color: #f4f6f7; }
+  background-color: #ffffff; }
 
 .form-message.error, .form-message.success {
   font-size: 16px;
@@ -2198,7 +2198,8 @@ p {
 ===========================*/
 .footer-area .footer-widget {
   padding-top: 90px;
-  padding-bottom: 120px; }
+  padding-bottom: 120px;
+  background-color: #ffffff; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-area .footer-widget {
       padding-top: 70px;
@@ -2252,7 +2253,7 @@ p {
 .footer-area.footer-dark {
   background-color: #121212; }
   .footer-area.footer-dark .footer-widget .footer-title {
-    color: #fff; }
+    color: rgb(255, 255, 255); }
   .footer-area.footer-dark .footer-widget .footer-link ul li a {
     color: #fff; }
     .footer-area.footer-dark .footer-widget .footer-link ul li a:hover {
